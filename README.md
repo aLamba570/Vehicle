@@ -29,10 +29,10 @@ Open the project in Android Studio.
       - Build and run the project on an emulator or a physical device.
 
 2. **Usage**
-      Login: Users can log in using their email and password.
-      Request Assistance: Users can request roadside assistance from the home screen.
-      Profile Management: Users can view and update their profile information.
-      Admin: Admins can add and manage mechanics.
+      - Login: Users can log in using their email and password.
+      - Request Assistance: Users can request roadside assistance from the home screen.
+      - Profile Management: Users can view and update their profile information.
+      - Admin: Admins can add and manage mechanics.
    
 3. **Contributing**
-If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions
+      - If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions
