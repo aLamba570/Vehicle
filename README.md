@@ -16,7 +16,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/roadside-assistance-app.git
+   git clone https://github.com/aLamba570/Vehicle.git
 
 Open the project in Android Studio.
 
