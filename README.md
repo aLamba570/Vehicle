@@ -22,11 +22,11 @@ Open the project in Android Studio.
 
 2. **Set up Firebase:**
 
-      Go to the Firebase console and create a new project.
-      Add your Android app to the Firebase project.
-      Download the google-services.json file and place it in the app/ directory of your Android project.
-      Add the necessary Firebase dependencies in your build.gradle files.
-      Build and run the project on an emulator or a physical device.
+      - Go to the Firebase console and create a new project.
+      - Add your Android app to the Firebase project.
+      - Download the google-services.json file and place it in the app/ directory of your Android project.
+      - Add the necessary Firebase dependencies in your build.gradle files.
+      - Build and run the project on an emulator or a physical device.
 
 2. **Usage**
       Login: Users can log in using their email and password.
