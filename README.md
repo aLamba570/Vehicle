@@ -13,19 +13,12 @@ This is a roadside assistance Android application built using Java, Firebase, an
 
 The folder structure of the project is as follows:
 
-RoadsideAssistanceApp/
-├── Adapter/
-│ ├── HomeAdapter.java
-│ └── MechanicAdapter.java
-├── Fragments/
-│ ├── AddMechanicFragment.java
-│ ├── HomeFragment.java
-│ ├── ShowMechanicFragment.java
-│ ├── UserProfileFragment.java
-├── Model/
-│ └── Model.java
-├── AdminActivity.java
-├── LoginActivity.java
-├── MainActivity.java
-├── RoleActivity.java
-└── StartingActivity.java
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/roadside-assistance-app.git
+
