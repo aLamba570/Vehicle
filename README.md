@@ -9,6 +9,14 @@ This is a roadside assistance Android application built using Java, Firebase, an
 - Request and manage roadside assistance
 - Admin functionalities to manage mechanics
 
+  ## Tech Stack
+
+   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+   ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+   ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+   ![XML](https://img.shields.io/badge/XML-FFB13B?style=for-the-badge&logo=xml&logoColor=white)
+
+
 
 ## Getting Started
 
